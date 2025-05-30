@@ -1,0 +1,12 @@
+FESTWERT QdmMotot_Qdmzfm_1.KL_b
+    LANGNAME "Parameter QdmMotot_Qdmzfm_1.KL_b"
+    WERT 10
+    EINHEIT_W "s"
+END
+
+FESTWERT QdmMotot_Qdmzfm_2.KL_b
+    LANGNAME "Parameter QdmMotot_Qdmzfm_2.KL_b"
+    WERT 20
+    EINHEIT_W "m/s^2"
+END
+
